@@ -20,10 +20,7 @@ Este projeto é uma **aplicação web para gerenciamento de tarefas**, desenvolv
 
 ## ⚙ Como executar o projeto
 
-1️⃣ Clone o repositório:
-```
-git clone https://github.com/seuusuario/seurepositorio.git
-```
+1️⃣ Clone o repositório
 2️⃣ Instale as dependências:
 ```
 npm install
