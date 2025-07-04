@@ -34,7 +34,7 @@ Configure a conexão com seu banco MongoDB no arquivo ``` config/database.js.```
 ```
 npm run dev
 ```
-4️⃣ Execute a aplicação:
+5️⃣ Acesse no navegador:
 ```
 http://localhost:3000
 ```
