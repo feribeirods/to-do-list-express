@@ -20,7 +20,10 @@ Este projeto é uma **aplicação web para gerenciamento de tarefas**, desenvolv
 
 ## ⚙ Como executar o projeto
 
-1️⃣ Clone o repositório. 
+1️⃣ Clone o repositório:
+```
+https://github.com/feribeirods/to-do-list-express.git
+```
 2️⃣ Instale as dependências:
 ```
 npm install
@@ -37,10 +40,10 @@ http://localhost:3000
 ```
 📌 Objetivo acadêmico
 Este projeto foi desenvolvido com fins didáticos, para aprofundar conhecimentos em:
-Criação de rotas no Express
-Manipulação de dados no MongoDB com Mongoose
-Integração de templates com EJS
-Boas práticas de organização de projetos Node.js
+- Criação de rotas no Express
+- Manipulação de dados no MongoDB com Mongoose
+- Integração de templates com EJS
+- Boas práticas de organização de projetos Node.js
 
 👨‍💻 Autor
 Fernando Ribeiro
